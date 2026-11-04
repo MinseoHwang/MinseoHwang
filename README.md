@@ -62,6 +62,6 @@ AI 모델을 서비스에 연결하고, 실패했을 때의 처리 흐름까지 
 
 - **명지대학교 졸업** · 2025.02
 - **KT AIVLE School 9기 AI 트랙 수료** · 840시간, Agentic AI·RAG·LLMOps 학습
-- **Dean’s List 우수수료생** · 개인 수상
+- **KT AIVLE School Dean’s List 우수수료생** · 개인 수상
 - **KT AIVLE School 빅프로젝트 우수상** · FinAudit 팀 수상
 - **AICE Associate** · 2026.04 취득
